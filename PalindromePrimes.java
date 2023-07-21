@@ -18,6 +18,11 @@ Darn it - the sequence is already in the OEIS:
 
 Mike O
 
+
+Mum
+A man, A plan, A canal: Panama !
+No 'x' in Nixon
+
 */
 
 import java.io.File;
