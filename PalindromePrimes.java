@@ -22,6 +22,8 @@ Mike O
 Mum
 A man, A plan, A canal: Panama !
 No 'x' in Nixon
+Racecar
+Taco Cat
 
 */
 
